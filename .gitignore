@@ -1,0 +1,14 @@
+.build/
+.wrangler/
+node_modules/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Godot editor/import caches
+.godot/
+**/.godot/

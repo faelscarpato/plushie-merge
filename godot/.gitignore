@@ -1,0 +1,10 @@
+.godot/
+.venv/
+__pycache__/
+build/*
+!build/.gdignore
+web/*
+!web/.gdignore
+dist/
+.manus-game-tools/
+.manus-logs/
